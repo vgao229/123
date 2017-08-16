@@ -1,0 +1,41 @@
+﻿Danh sách tra c?u thông tin t?ng h?p									
+S? h?p đ?ng	H?n đóng phí h?p đ?ng	Năm h?p đ?ng	Phí đ?nh k?	T?nh tr?ng	Ngư?i đư?c b?o hi?m	Ch? h?p đ?ng	S? đi?n tho?i ch? h?p đ?ng		Đ?a ch? ch? h?p đ?ng
+U907133164	26/05/2018	2	12.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Văn Chinh	Tô Th? N?	01686792973		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907094575	23/05/2018	2	9.003.000	H?p đ?ng đang có hi?u l?c	V? Th? Thía	V? Th? Thía	01658159604 / 01658159604		 Thôn Ngái, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907048437	05/05/2018	2	7.769.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? T?i	Nguy?n Th? T?i	01699083129 / 01699083129		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908750229	30/05/2018	1	15.000.000	H?p đ?ng đang có hi?u l?c	Ph?m Th? Bư?i	Ph?m Th? Bư?i	0915919517 / 0915919517		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U908927573	06/07/2018	1	12.001.000	H?p đ?ng đang có hi?u l?c	Ph?m Th? Ng?c Ánh	Nguy?n Th? Anh	01688686904		 Thôn Giáo Ngh?a, X. B?nh Minh, H. Ki?n Xương, Thái B?nh
+C906484542	31/05/2018	2	11.393.000	H?p đ?ng đang có hi?u l?c	Tr?n Th? Tu?t	Tr?n Th? Tu?t	0975341064 / 0975341064		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908994467	26/07/2018	1	12.785.000	H?p đ?ng đang có hi?u l?c	Nguy?n Phương B?o An	Kim Th? Nhi	01653552327		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906881417	29/03/2018	2	12.783.000	H?p đ?ng đang có hi?u l?c	V? Văn Th?nh	Mai Th? B?nh	01644969765 / 01644969765		 Hoa Thám, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906999477	07/09/2017	1	11.503.000	H?p đ?ng đang có hi?u l?c	Nguy?n Văn K?	Nguy?n Văn K?	0975341064 / 0975341064		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U908621866	19/06/2018	1	13.000.000	H?p đ?ng đang có hi?u l?c	V? Th? Chung	Nguy?n Văn Đ?c	01693615750		 Nguyên Kinh 1, X. Minh Hưng, H. Ki?n Xương, Thái B?nh
+U907146067	30/05/2018	2	9.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Liên	Nguy?n Th? Liên	01652936072 / 01652936072		 Thôn Hoa Thám, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908300653	28/02/2018	1	15.872.000	H?p đ?ng đang có hi?u l?c	Nguy?n Xuân H?a	Ph?m Th? Thư	01632275660		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U907564995	07/11/2017	1	13.023.000	H?p đ?ng đang có hi?u l?c	Nguy?n Quí T?nh	Nguy?n Th? H?o	01693793144		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908394494	25/03/2018	1	11.400.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Gái	Nguy?n Th? Gái	01648642213 / 01648642213		 Thôn Hoa Thám, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906996072	27/08/2017	1	15.599.000	H?p đ?ng đang có hi?u l?c	Nguy?n Ti?n Anh	Nguy?n Th? Tuy?t	0972195730		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906881394	29/03/2018	2	9.997.000	H?p đ?ng đang có hi?u l?c	V? Th? Hoa	V? Th? Hoa	0986497672 / 0986497672		 Hưng Ti?n, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906881527	29/03/2018	2	12.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Qu? Tr?ng	Nguy?n Qu? Tuân	0986497672		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906480436	05/05/2018	2	7.460.000	H?p đ?ng đang có hi?u l?c	Nguy?n Quí T?nh	Nguy?n Quí T?nh	01699083129 / 01699083129		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906688458	14/04/2018	2	12.523.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Th?o	Ph?m Văn Minh	0936540380		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907732675	24/10/2017	1	9.000.000	H?p đ?ng đang có hi?u l?c	Lê Thi Huê	Lê Thi Huê	01658804991 / 01658804991		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C906488315	27/05/2018	2	7.500.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Thu	Nguy?n Th? Thu	01684645170 / 01684645170		 Xóm 2 Thôn Ngái, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908487657	16/05/2018	1	9.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Tươi	Nguy?n Th? Tươi	01663598418 / 01663598418		 Hưng Ti?n, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908773510	13/06/2018	1	9.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Th?m	Nguy?n Th? Th?m	0987920609 / 0987920609		 Thôn Hoa Thám, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C908174546	25/07/2018	1	10.003.000	H?p đ?ng đang có hi?u l?c	Tr?n Th? Thân	Tr?n Th? Thân	01639059021 / 01639059021		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U909018151	28/07/2018	1	12.000.000	H?p đ?ng đang có hi?u l?c	V? Th? Nhi?m	V? Th? Nhi?m	01688221639 / 01688221639		 Hưng Ti?n, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U906953727	21/04/2018	2	16.804.000	H?p đ?ng đang có hi?u l?c	Nguy?n Đ?c Tín	Nguy?n Th? M?c	01635982493		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907381084	22/08/2017	1	12.435.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Loan	Đ? Th? Lan	01673746026		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907581392	19/09/2017	1	12.001.000	H?p đ?ng đang có hi?u l?c	Th?ch Th? Xuân Mai	Nguy?n Th? Dung	01223021764		 Thôn Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U907990666	29/12/2017	1	12.000.000	H?p đ?ng đang có hi?u l?c	Lê Bích Ng?c	Nguy?n Th? Oanh	01689882984		 Thôn Đông, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U907725433	18/10/2017	1	12.611.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Lan Anh	Nguy?n Th? Đào	0984027910 / 0984027910		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U906975624	26/05/2018	2	13.214.000	H?p đ?ng đang có hi?u l?c	Ph?m Đ?c Tr?ng	V? Th? B?y	0973259948		 Thôn Ngái, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U908394533	25/03/2018	1	11.040.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Th?c	Nguy?n Th? Th?c	01655177460 / 01655177460		 Xóm 8, Hoa Thám, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+U907471826	26/08/2017	1	12.001.000	H?p đ?ng đang có hi?u l?c	Lê Xuân Hùng	Nguy?n Th? La	01645997571		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C907125321	18/10/2017	1	12.001.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Hoàn	Nguy?n Th? Hoàn	01695351876 / 01659351876		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, Thái B?nh
+C908174575	25/07/2018	1	12.050.000	H?p đ?ng đang có hi?u l?c	Ph?m Th? Th?y	Ph?m Th? Th?y	01692120973 / 01692120973		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+U909105802	11/08/2018	1	12.000.000	H?p đ?ng đang có hi?u l?c	Nguy?n Tr?ng Huy Hoàng	V? Th? Thanh	0975639113		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+C907001652	27/09/2017	1	10.500.000	H?p đ?ng đang có hi?u l?c	Nguy?n Th? Nhung	Nguy?n Th? Nhung	01665513378 / 01665513378		 Đoàn K?t, X. Quang B?nh, H. Ki?n Xương, T?nh Thái B?nh
+									
+									
